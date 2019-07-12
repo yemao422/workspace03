@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/userInterface01/userInterface01.iml" filepath="$PROJECT_DIR$/userInterface01/userInterface01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/userconsumer/userconsumer.iml" filepath="$PROJECT_DIR$/userconsumer/userconsumer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/userprovider/userprovider.iml" filepath="$PROJECT_DIR$/userprovider/userprovider.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/workspace03.iml" filepath="$PROJECT_DIR$/.idea/workspace03.iml" />
+    </modules>
+  </component>
+</project>
